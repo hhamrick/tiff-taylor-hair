@@ -1,0 +1,18 @@
+table {
+    width: 100%;
+    background: transparent;
+}
+
+tr {
+    height: 28px;
+}
+
+td:last-child {
+    width: 145px;
+}
+
+mat-card {
+    padding: 16px;
+    margin: 20px;
+}
+  
