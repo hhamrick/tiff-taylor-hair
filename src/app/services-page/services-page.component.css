@@ -7,8 +7,12 @@ tr {
     height: 28px;
 }
 
+td {
+    padding: 5px 0;
+}
+
 td:last-child {
-    width: 145px;
+    width: 60px;
 }
 
 mat-card {

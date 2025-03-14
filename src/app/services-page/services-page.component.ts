@@ -21,7 +21,7 @@ export class ServicesPageComponent {
     { service: 'Mens Cut', price: '$41.00' },
     { service: 'Children (10 and under)', price: '$31.00' },
     { service: 'Shampoo & Style', price: '$50.00' },
-    { service: 'Special Event Styling (Pre-Consultation Mandatory)', price: '$100.00-$175.00' },
+    { service: 'Special Event Styling (Pre-Consultation Mandatory)', price: '$100.00- $175.00' },
     { service: 'Bang Trim (*complimentary with regularly scheduled clients)', price: '$15.00' },
     { service: 'Olaplex Hair Bonding Treatment (add-on)', price: '$35.00' },
     { service: 'Olaplex Hair Bonding Treatment (a la carte)', price: '$65.00' },
@@ -38,8 +38,8 @@ export class ServicesPageComponent {
     { service: 'Color Glossing (a la carte)', price: '$75.00' },
     { service: 'Mens Color', price: '$55.00' },
     { service: 'Mens Highlighting', price: '$105.00' },
-    { service: 'Six Week Blow Out (haircut included)', price: '$180.00-$300.00' },
-    { service: 'Straightening System', price: '$325.00-$575.00' },
+    { service: 'Six Week Blow Out (haircut included)', price: '$180.00- $300.00' },
+    { service: 'Straightening System', price: '$325.00- $575.00' },
     { service: 'Corrective Color', price: '$150.00 / hour' },
     { service: 'Eyebrow Tint', price: '$18.00' }
   ];
