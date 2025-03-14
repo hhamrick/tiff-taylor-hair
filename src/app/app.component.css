@@ -1,3 +1,10 @@
+.title {
+    font-family: "Corinthia", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 36px;
+}
+
 .spacer {
     flex: 1 1 auto;
 }
