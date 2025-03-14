@@ -3,5 +3,6 @@
 }
 
 .content {
-    padding: 0 16px;
+    padding: 5px 16px;
+    /* transform: translateY(-10px); */
 }
