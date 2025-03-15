@@ -18,7 +18,8 @@ td:last-child {
 
 mat-card {
     padding: 16px;
-    margin: 20px;
+    margin: 20px auto;
+    max-width: 800px;
 }
 
 img {

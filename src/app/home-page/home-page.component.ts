@@ -9,7 +9,7 @@ import { Component } from '@angular/core';
 export class HomePageComponent {
   public static Route = {
     path: '',
-    title: 'Home',
+    title: 'Home - Tiffany Taylor',
     component: HomePageComponent
   }
 }

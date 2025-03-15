@@ -12,7 +12,7 @@ import { CommonModule } from '@angular/common';
 export class ServicesPageComponent {
   public static Route = {
     path: 'services',
-    title: 'Services',
+    title: 'Services - Tiffany Taylor',
     component: ServicesPageComponent
   }
 
