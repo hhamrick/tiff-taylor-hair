@@ -16,7 +16,7 @@ img {
 mat-card {
     padding: 16px;
     flex: 1;
-    min-width: 400px;
+    min-width: 350px;
     max-width: 800px;
 }
 
