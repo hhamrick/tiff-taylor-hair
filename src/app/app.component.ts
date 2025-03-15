@@ -9,7 +9,7 @@ import { MatButtonModule } from '@angular/material/button';
   selector: 'app-root',
   imports: [RouterOutlet, RouterLink, CommonModule, MatToolbarModule, MatButtonModule],
   templateUrl: './app.component.html',
-  styleUrl: './app.component.css'
+  styleUrl: './app.component.scss'
 })
 export class AppComponent {
   isMobile: boolean = window.innerWidth < 768;
