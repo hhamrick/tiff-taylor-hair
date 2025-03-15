@@ -45,7 +45,7 @@ export class ServicesPageComponent {
   ];
 
   waxingData = [
-    { service: 'Facial Waxing', price: '$18.00' }
+    { service: 'Eyebrow or Facial Waxing', price: '$18.00' }
   ]
 
   displayedColumns = ['service', 'price'];
