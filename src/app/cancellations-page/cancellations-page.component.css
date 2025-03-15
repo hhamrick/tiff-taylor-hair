@@ -3,4 +3,10 @@ img {
     width: 100%;
     max-width: 600px;
     margin: 0 auto;
+    padding: 20px;
+}
+
+.container {
+    margin: 0;
+    background-color: #e6f2f2;
 }
