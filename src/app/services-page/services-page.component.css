@@ -20,6 +20,7 @@ mat-card {
     padding: 16px;
     margin: 20px auto;
     max-width: 800px;
+    background-color: #cce6e6;
 }
 
 mat-card-title {
