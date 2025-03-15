@@ -1,0 +1,35 @@
+.container {
+    margin: 20px auto;
+    max-width: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+mat-card {
+    padding: 16px;
+    flex: 1;
+    margin: 20px auto;
+    max-width: 100%;
+    background-color: #e6f2f2;
+}
+
+mat-card-title {
+    font-family: "Corinthia", cursive;
+    font-weight: 700;
+    font-size: 36px;
+}
+
+.image-container {
+    width: 300px;
+}
+
+img {
+    width: 100%;
+}
+
+a {
+    color: #894e46;
+}
