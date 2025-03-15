@@ -9,4 +9,5 @@ img {
 .container {
     margin: 0;
     background-color: #e6f2f2;
+    height: 100vh;
 }
