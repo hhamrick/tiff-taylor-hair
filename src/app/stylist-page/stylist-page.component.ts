@@ -9,7 +9,7 @@ import { MatCardModule } from '@angular/material/card';
 })
 export class StylistPageComponent {
   public static Route = {
-    path: '',
+    path: '**',
     title: 'Stylist - Tiffany Taylor',
     component: StylistPageComponent
   }

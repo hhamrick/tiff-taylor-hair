@@ -22,7 +22,7 @@
       </button>
     </mat-toolbar>
 
-    <div class="content">
+    <div [ngClass]="{'content': !isCancellations}">
       <router-outlet />
     </div>
   </mat-sidenav-content>
