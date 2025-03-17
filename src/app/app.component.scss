@@ -1,8 +1,18 @@
 @use '@angular/material' as mat;
 
 mat-toolbar {
+    height: 60px;
     background: #468189;
     color: white;
+}
+
+mat-sidenav {
+    width: auto;
+    background-color: #e6f2f2;
+}
+
+mat-nav-list {
+    padding: 10px;
 }
 
 button {
@@ -24,4 +34,5 @@ button {
 
 .content {
     padding: 5px 16px;
+    min-height: calc(100vh - 70px);
 }
