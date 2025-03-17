@@ -8,5 +8,5 @@ img {
 
 .container {
     background-color: #e6f2f2;
-    min-height: calc(100vh - 60px);
+    height: calc(100vh - 60px);
 }
