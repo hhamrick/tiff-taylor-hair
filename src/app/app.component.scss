@@ -8,6 +8,7 @@ mat-toolbar {
 
 mat-sidenav {
     width: auto;
+    max-height: 220px; // 50px * 4 + 20px
     background-color: #e6f2f2;
 }
 
@@ -38,5 +39,4 @@ button {
 
 .content {
     padding: 5px 16px;
-    // min-height: calc(100vh - 70px);
 }
