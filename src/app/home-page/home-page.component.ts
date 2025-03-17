@@ -8,7 +8,7 @@ import { Component, HostListener } from '@angular/core';
 })
 export class HomePageComponent {
   public static Route = {
-    path: '',
+    path: 'home',
     title: 'Home - Tiffany Taylor',
     component: HomePageComponent
   }
