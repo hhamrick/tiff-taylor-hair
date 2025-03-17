@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, HostListener } from '@angular/core';
 
 @Component({
   selector: 'app-home-page',
@@ -11,5 +11,12 @@ export class HomePageComponent {
     path: '',
     title: 'Home - Tiffany Taylor',
     component: HomePageComponent
+  }
+
+  width = window.innerWidth
+
+  @HostListener('window:resize', ['$event'])
+  onResize() {
+    this.width = window.innerWidth
   }
 }

@@ -12,10 +12,10 @@ import { MatButtonModule } from '@angular/material/button';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  isMobile: boolean = window.innerWidth < 768;
+  isMobile: boolean = window.innerWidth < 600;
 
   @HostListener('window:resize', ['$event'])
   onResize() {
-    this.isMobile = window.innerWidth < 768;
+    this.isMobile = window.innerWidth < 600;
   }
 }
