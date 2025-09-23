@@ -17,35 +17,35 @@ export class ServicesPageComponent {
   }
 
   hairData = [
-    { service: 'Ladies Cut', price: '$61.00' },
-    { service: 'Mens Cut', price: '$41.00' },
-    { service: 'Children (10 and under)', price: '$31.00' },
-    { service: 'Shampoo & Style', price: '$50.00' },
-    { service: 'Special Event Styling (Pre-Consultation Mandatory)', price: '$100.00- $175.00' },
+    { service: 'Ladies Cut', price: '$64.00' },
+    { service: 'Mens Cut', price: '$44.00' },
+    { service: 'Children (10 and under)', price: '$34.00' },
+    { service: 'Shampoo & Style', price: '$53.00' },
+    { service: 'Special Event Styling (Pre-Consultation Mandatory)', price: '$105.00- $180.00' },
     { service: 'Bang Trim (*complimentary with regularly scheduled clients)', price: '$15.00' },
-    { service: 'Olaplex Hair Bonding Treatment (add-on)', price: '$35.00' },
-    { service: 'Olaplex Hair Bonding Treatment (a la carte)', price: '$65.00' },
+    { service: 'Olaplex Hair Bonding Treatment (add-on)', price: '$40.00' },
+    { service: 'Olaplex Hair Bonding Treatment (a la carte)', price: '$70.00' },
   ];
 
   colorData = [
-    { service: 'Single Color', price: '$90.00' },
-    { service: 'Two Colors (roots & highlight)', price: '$165.00' },
-    { service: 'Extra color charge each additional mix (add-on only)', price: '$20.00' },
-    { service: 'Highlighting', price: '$125.00' },
-    { service: 'Ombré, Balayage, OR Color Melting', price: '$170.00' },
-    { service: 'Root Shadow (add-on only)', price: '$40.00' },
-    { service: 'Color Glossing (add-on)', price: '$35.00' },
-    { service: 'Color Glossing (a la carte)', price: '$75.00' },
-    { service: 'Mens Color', price: '$55.00' },
-    { service: 'Mens Highlighting', price: '$105.00' },
-    { service: 'Six Week Blow Out (haircut included)', price: '$180.00- $300.00' },
-    { service: 'Straightening System', price: '$325.00- $575.00' },
-    { service: 'Corrective Color', price: '$150.00 / hour' },
-    { service: 'Eyebrow Tint', price: '$18.00' }
+    { service: 'Single Color', price: '$95.00' },
+    { service: 'Two Colors (roots & highlight)', price: '$170.00' },
+    { service: 'Extra color charge each additional mix (add-on only)', price: '$25.00' },
+    { service: 'Highlighting', price: '$130.00' },
+    { service: 'Ombré, Balayage, OR Color Melting', price: '$175.00' },
+    { service: 'Root Shadow (add-on only)', price: '$45.00' },
+    { service: 'Color Glossing (add-on)', price: '$40.00' },
+    { service: 'Color Glossing (a la carte)', price: '$80.00' },
+    { service: 'Mens Color', price: '$60.00' },
+    { service: 'Mens Highlighting', price: '$110.00' },
+    { service: 'Six Week Blow Out (haircut included)', price: '$185.00- $305.00' },
+    { service: 'Straightening System', price: '$330.00- $580.00' },
+    { service: 'Corrective Color', price: '$155.00 / hour' },
+    { service: 'Eyebrow Tint', price: '$20.00' }
   ];
 
   waxingData = [
-    { service: 'Eyebrow or Facial Waxing', price: '$18.00' }
+    { service: 'Eyebrow or Facial Waxing', price: '$20.00' }
   ]
 
   displayedColumns = ['service', 'price'];
