@@ -33,7 +33,7 @@ export class ServicesPageComponent {
     { service: 'Two Colors (roots & highlight)', price: '$187.00' },
     { service: 'Extra color charge each additional mix (add-on only)', price: '$25.00' },
     { service: 'Partial Highlight (45 min)', price: '$110.00' },
-    { service: 'Highlighting (90 min)', price: '$145.00' },
+    { service: 'Highlighting (75 min)', price: '$145.00' },
     { service: 'Ombré, Balayage, OR Color Melting', price: '$175.00' },
     { service: 'Root Shadow (add-on only)', price: '$50.00' },
     { service: 'Color Glossing (add-on)', price: '$40.00' },
